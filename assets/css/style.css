@@ -149,6 +149,7 @@ body {
     overflow: auto;
   }
   
+  
   .work:nth-child(even) {
     margin-right: 40px;
   }
@@ -225,15 +226,14 @@ body {
      
     }
     @media screen and (max-width: 768px) {
-    
-      }
-      #masthead{
+      #masthead { 
         float: center;
         width:100%;
         flex-direction: row;
         position: static;
-
+    
       }
+    
       }
 
       @media screen and (max-width: 640px) {
