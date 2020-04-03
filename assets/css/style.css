@@ -1,0 +1,33 @@
+body{
+  background-color:#faf6f2;
+  color: #683b2b;
+}
+.navbar-light .navbar-brand{
+  color: #683b2b;
+  font-family: 'Cabin Condensed', sans-serif;
+
+}
+.navbar-light .navbar-nav .nav-link {
+  color: #683b2b;
+  font-family: 'Cabin Condensed', sans-serif;
+  font-size: 22px;
+}
+.navbar{
+  padding-bottom: 50px;
+}
+
+.jumbotron{
+  background-color: #ded1bd;
+  font-family: 'Cabin Condensed', sans-serif;
+  text-align: center;
+  padding-top: 100px;
+}
+h1{
+  font-family: 'DM Serif Display', serif;
+}
+.btn-primary { 
+  background-color:#683b2b; 
+  border: none;
+  color:#faf6f2;
+  font-family: 'Cabin Condensed', sans-serif;
+}
