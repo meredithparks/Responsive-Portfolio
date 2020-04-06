@@ -15,6 +15,23 @@ body{
   .navbar{
     padding-bottom: 50px;
   }
-img{
+.navbar-brand img{
+  border-radius: 15px;
+}
+.main-section img{
     float: right;
+    border: 3px solid  #683b2b;
+}
+.main-section{
+  background-color:  #ded1bd;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  
+}
+a{
+  color:#683b2b;
+  font-family: 'Cabin Condensed', sans-serif;
+  font: bolder;
 }
