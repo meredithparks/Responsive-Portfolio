@@ -1,38 +1,40 @@
 body{
-  background-color:#faf6f2;
-  color: #683b2b;
-}
-.navbar-brand img{
-  border-radius: 15px;
+  background-color: white;
+  color: black;
 }
 .navbar-light .navbar-brand{
-  color: #683b2b;
+  color: black;
   font-family: 'Bebas Neue', cursive;
+
 
 }
 .navbar-light .navbar-nav .nav-link {
-  color: #683b2b;
+  color: black;
   font-family: 'Bebas Neue', cursive;
-  font-size: 18px;
+  font-size: 30px;
+  
 }
 .navbar{
-  padding-bottom: 50px;
+  padding-bottom: 20px;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
+
 .jumbotron{
-  background-color: #ded1bd;
+  background-color:#ccc;
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
-  padding-top: 100px;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  border-radius: 15px;
+  padding-top: 10%;
+  
+ 
 }
 h1{
   font-family: Arial, Helvetica, sans-serif;
 }
 .btn-primary { 
-  background-color:#683b2b; 
+  background-color: #45a049; 
   border: none;
-  color:#faf6f2;
+  color: white;
   font-family: Arial, Helvetica, sans-serif;
 }
